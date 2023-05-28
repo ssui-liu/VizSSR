@@ -1,2 +1,0 @@
-# VizSSR
-Test
