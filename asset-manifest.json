@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VizSSR/static/css/main.769654b1.css",
+    "main.js": "/VizSSR/static/js/main.bf9b516d.js",
+    "index.html": "/VizSSR/index.html",
+    "main.769654b1.css.map": "/VizSSR/static/css/main.769654b1.css.map",
+    "main.bf9b516d.js.map": "/VizSSR/static/js/main.bf9b516d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.769654b1.css",
+    "static/js/main.bf9b516d.js"
+  ]
+}
