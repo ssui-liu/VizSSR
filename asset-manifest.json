@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/VizSSR/static/css/main.dd2366a4.css",
-    "main.js": "/VizSSR/static/js/main.1bfa2d60.js",
+    "main.css": "/VizSSR/static/css/main.d1835746.css",
+    "main.js": "/VizSSR/static/js/main.1cf278e6.js",
     "index.html": "/VizSSR/index.html",
-    "main.dd2366a4.css.map": "/VizSSR/static/css/main.dd2366a4.css.map",
-    "main.1bfa2d60.js.map": "/VizSSR/static/js/main.1bfa2d60.js.map"
+    "main.d1835746.css.map": "/VizSSR/static/css/main.d1835746.css.map",
+    "main.1cf278e6.js.map": "/VizSSR/static/js/main.1cf278e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd2366a4.css",
-    "static/js/main.1bfa2d60.js"
+    "static/css/main.d1835746.css",
+    "static/js/main.1cf278e6.js"
   ]
 }
